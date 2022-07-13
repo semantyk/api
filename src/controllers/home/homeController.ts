@@ -1,6 +1,6 @@
 /**
  * –––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
- * # semantyk.com
+ * # api.semantyk.com
  * Module | `homeController.ts`
  *
  * July 12, 2022
